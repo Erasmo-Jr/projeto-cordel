@@ -2,6 +2,10 @@
 
 Página web inspirada na literatura de cordel, com design visual diferenciado e estilo próprio.
 
+<p align="center">
+  <img src="Projeto-cordel%20imagem.png" width="800">
+</p>
+
 ## Tecnologias
 HTML5 • CSS3
 
