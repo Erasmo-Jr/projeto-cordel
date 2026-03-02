@@ -8,6 +8,9 @@ HTML5 • CSS3
 ## Diferencial
 Projeto com foco em estética e identidade visual, utilizando recursos de layout e tipografia para resgatar elementos culturais.
 
+## Conceito visual
+O design foi inspirado na estética e tipografia da literatura de cordel para reforçar presença cultural.
+
 ## O que eu aprendi
 - Layout responsivo
 - Organização semântica de HTML
